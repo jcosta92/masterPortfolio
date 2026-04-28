@@ -5,7 +5,6 @@ import { skills } from "../../portfolio";
 import { Fade } from "react-reveal";
 import DataScienceImg from "./DataScienceImg";
 import FullStackImg from "./FullStackImg";
-import CloudInfraImg from "./CloudInfraImg";
 import LogisticsImg from "./Logistics1.png";
 import PMImg from "./PM1.png";
 

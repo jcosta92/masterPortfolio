@@ -6,7 +6,6 @@ class ExperienceCard extends Component {
   render() {
     const experience = this.props.experience;
     const index = this.props.index;
-    const totalCards = this.props.totalCards;
     const theme = this.props.theme;
     return (
       <div
@@ -15,41 +14,29 @@ class ExperienceCard extends Component {
       >
         <Fade left duration={2000} distance="40px">
           <div className="experience-card-logo-div">
-            <img
-              className="experience-card-logo"
-              src={require(`../../assets/images/${experience["logo_path"]}`)}
-              alt=""
-            />
+            <a
+              href={experience["company_url"]}
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img
+                className="experience-card-logo"
+                src={require(`../../assets/images/${experience["logo_path"]}`)}
+                alt={experience["company"]}
+              />
+            </a>
           </div>
         </Fade>
-        <div className="experience-card-stepper">
+
+        <Fade right duration={2000} distance="40px">
           <div
             style={{
-              width: 20,
-              height: 20,
-              backgroundColor: `${theme.headerColor}`,
-              borderRadius: 50,
-              zIndex: 100,
+              display: "flex",
+              flexDirection: "row",
+              flex: 1,
+              width: "100%",
             }}
-          />
-          {index !== totalCards - 1 && (
-            <div
-              style={{
-                height: 190,
-                width: 2,
-                backgroundColor: `${theme.headerColor}`,
-                position: "absolute",
-                marginTop: 20,
-              }}
-            />
-          )}
-        </div>
-        <Fade right duration={2000} distance="40px">
-          <div style={{ display: "flex", flexDirection: "row" }}>
-            <div
-              className="arrow-left"
-              style={{ borderRight: `10px solid ${theme.body}` }}
-            ></div>
+          >
             <div
               className="experience-card"
               style={{ background: `${theme.body}` }}
@@ -98,15 +85,15 @@ class ExperienceCard extends Component {
                   </div>
                 </div>
               </div>
-              <div
-                style={{
-                  display: "flex",
-                  justifyContent: "flex-start",
-                  marginTop: 20,
-                }}
-              >
-                <div className="repo-description" />
-                {experience["description"]}
+              <div className="experience-card-description">
+                {experience["description"].map((item, i) => (
+                  <p key={i}>
+                    <span role="img" aria-label="bullet">
+                      ⚡
+                    </span>{" "}
+                    {item}
+                  </p>
+                ))}
               </div>
             </div>
           </div>
