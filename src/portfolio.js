@@ -159,7 +159,7 @@ const skills = {
           style: { color: "#F59E0B" },
         },
         {
-          skillName: "Suppliers",
+          skillName: "Supplier Management",
           fontAwesomeClassname: "fa-solid:handshake",
           style: { color: "#2563EB" },
         },
@@ -167,16 +167,6 @@ const skills = {
           skillName: "Logistics",
           fontAwesomeClassname: "fa-solid:truck",
           style: { color: "#EA580C" },
-        },
-        {
-          skillName: "Inventory",
-          fontAwesomeClassname: "fa-solid:boxes-stacked",
-          style: { color: "#8B5CF6" },
-        },
-        {
-          skillName: "Operations",
-          fontAwesomeClassname: "fa-solid:gears",
-          style: { color: "#64748B" },
         },
       ],
     },

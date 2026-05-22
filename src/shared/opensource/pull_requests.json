@@ -94,56 +94,6 @@
       }
     },
     {
-      "id": "MDExOlB1bGxSZXF1ZXN0NDA3ODkzNjM0",
-      "title": "Setting up complete workflow for project",
-      "url": "https://github.com/ashutosh1919/masterPortfolio/pull/4",
-      "state": "MERGED",
-      "mergedBy": {
-        "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
-        "url": "https://github.com/ashutosh1919",
-        "login": "ashutosh1919"
-      },
-      "createdAt": "2020-04-23T12:48:04Z",
-      "number": 4,
-      "changedFiles": 19,
-      "additions": 38,
-      "deletions": 47,
-      "baseRepository": {
-        "name": "masterPortfolio",
-        "url": "https://github.com/ashutosh1919/masterPortfolio",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
-          "login": "ashutosh1919",
-          "url": "https://github.com/ashutosh1919"
-        }
-      }
-    },
-    {
-      "id": "MDExOlB1bGxSZXF1ZXN0NDA3ODgxNTk0",
-      "title": "Test PR to setup workflow",
-      "url": "https://github.com/ashutosh1919/masterPortfolio/pull/3",
-      "state": "MERGED",
-      "mergedBy": {
-        "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
-        "url": "https://github.com/ashutosh1919",
-        "login": "ashutosh1919"
-      },
-      "createdAt": "2020-04-23T12:24:42Z",
-      "number": 3,
-      "changedFiles": 1,
-      "additions": 32,
-      "deletions": 0,
-      "baseRepository": {
-        "name": "masterPortfolio",
-        "url": "https://github.com/ashutosh1919/masterPortfolio",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
-          "login": "ashutosh1919",
-          "url": "https://github.com/ashutosh1919"
-        }
-      }
-    },
-    {
       "id": "MDExOlB1bGxSZXF1ZXN0NDA3MDkwMTk5",
       "title": "Added layer_test in addons and refactoring the code",
       "url": "https://github.com/tensorflow/addons/pull/1715",
@@ -2117,31 +2067,6 @@
       }
     },
     {
-      "id": "MDExOlB1bGxSZXF1ZXN0MzAxMzk5NTg5",
-      "title": "Comments",
-      "url": "https://github.com/ashutosh1919/mentornet/pull/1",
-      "state": "MERGED",
-      "mergedBy": {
-        "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
-        "url": "https://github.com/ashutosh1919",
-        "login": "ashutosh1919"
-      },
-      "createdAt": "2019-07-26T05:23:10Z",
-      "number": 1,
-      "changedFiles": 1,
-      "additions": 1,
-      "deletions": 0,
-      "baseRepository": {
-        "name": "mentornet",
-        "url": "https://github.com/ashutosh1919/mentornet",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
-          "login": "ashutosh1919",
-          "url": "https://github.com/ashutosh1919"
-        }
-      }
-    },
-    {
       "id": "MDExOlB1bGxSZXF1ZXN0MzAxMTE4NDY2",
       "title": "Removed Unnecessary imports",
       "url": "https://github.com/C-Aniruddh/DeepConversation/pull/1",
@@ -2268,31 +2193,6 @@
           "avatarUrl": "https://avatars.githubusercontent.com/u/34455048?v=4",
           "login": "keras-team",
           "url": "https://github.com/keras-team"
-        }
-      }
-    },
-    {
-      "id": "MDExOlB1bGxSZXF1ZXN0Mjg4NTMyMzQz",
-      "title": "RC Details",
-      "url": "https://github.com/abhinavhinger12/ala/pull/2",
-      "state": "MERGED",
-      "mergedBy": {
-        "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
-        "url": "https://github.com/ashutosh1919",
-        "login": "ashutosh1919"
-      },
-      "createdAt": "2019-06-15T05:19:37Z",
-      "number": 2,
-      "changedFiles": 3,
-      "additions": 555,
-      "deletions": 0,
-      "baseRepository": {
-        "name": "ala",
-        "url": "https://github.com/abhinavhinger12/ala",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/4638215?u=9c8d81f075a4206c9ce6386e7a97babce38c1037&v=4",
-          "login": "abhinavhinger12",
-          "url": "https://github.com/abhinavhinger12"
         }
       }
     },
