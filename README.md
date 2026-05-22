@@ -95,6 +95,6 @@ The project has since been heavily customized, redesigned, and refactored to fit
 
 ## 📫 Contact
 
-LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+LinkedIn: 
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: 
