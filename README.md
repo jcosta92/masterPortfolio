@@ -92,9 +92,3 @@ This portfolio was originally based on the open-source `masterPortfolio` templat
 The project has since been heavily customized, redesigned, and refactored to fit my personal branding and professional goals.
 
 ---
-
-## 📫 Contact
-
-LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-
-GitHub: https://github.com/YOUR_USERNAME
