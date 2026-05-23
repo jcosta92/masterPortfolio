@@ -26,7 +26,7 @@
 }
 
 .experience-heading-img-div > * {
-  max-width: 100%;
+  max-width: 75%;
   height: auto;
 }
 
@@ -47,11 +47,9 @@
 }
 
 .experience-header-detail-text {
-  font-size: 20px;
-  line-height: 30px;
-  margin-top: 0px;
-  margin-left: 20px;
-  margin-right: 20px;
+  font-size: 18px;
+  line-height: normal;
+  text-align: center;
   font-family: "Google Sans Medium";
 }
 
@@ -80,10 +78,14 @@
   }
 
   .experience-header-detail-text {
-    font-size: 16px;
+    font-size: 14px;
     margin-right: 0px;
     line-height: normal;
     text-align: center;
+  }
+
+  .experience-heading-img-div > * {
+    max-width: 55%;
   }
 }
 
@@ -197,7 +199,7 @@
   margin-top: 14px;
   margin-left: 10px;
   margin-right: 20px;
-  text-align: justify;
+  text-align: left;
   font-family: "Google Sans Regular";
   font-size: 18px;
   line-height: 1.6;
@@ -291,9 +293,12 @@
 
 @media (max-width: 768px) {
   .experience-card {
-    /* margin-bottom:10px; */
     flex-direction: column;
-    text-align: center;
+    text-align: left;
+    width: 92%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 18px;
   }
 
   .arrow-left {
@@ -309,7 +314,8 @@
   }
 
   .experience-card-logo {
-    width: 100px;
+    width: 85px;
+    height: 85px;
   }
 
   .experience-card-heading-left {
@@ -325,11 +331,12 @@
   }
 
   .experience-card-title {
-    /* text-align: center; */
+    font-size: 24px;
+    line-height: 1.2;
   }
 
   .experience-card-company {
-    /* text-align: center; */
+    font-size: 18px;
   }
 
   .experience-card-duration {
@@ -347,8 +354,7 @@
   }
 
   .experience-card-description {
-    margin-left: 14px;
-    margin-right: 14px;
-    text-align: justify;
+    font-size: 16px;
+    line-height: 1.5;
   }
 }
