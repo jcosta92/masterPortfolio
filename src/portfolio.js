@@ -19,7 +19,7 @@ const seo = {
 //Home Page
 const greeting = {
   title: "José Costa",
-  logo_name: "J.Costa",
+  logo_name: "J. Costa",
   //nickname: "handyman",
   subTitle: "Experienced Sales Engineer, passionate about AI and Data.",
   resumeLink: "/portfolio/CV_Jose_Costa.pdf",
