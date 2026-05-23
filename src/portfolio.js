@@ -19,9 +19,9 @@ const seo = {
 //Home Page
 const greeting = {
   title: "José Costa",
-  logo_name: "JoséCosta",
+  logo_name: "J.Costa",
   //nickname: "handyman",
-  subTitle: "An experienced Sales Engineer, passionate about AI and Data.",
+  subTitle: "Experienced Sales Engineer, passionate about AI and Data.",
   resumeLink: "/portfolio/CV_Jose_Costa.pdf",
   portfolio_repository: "https://github.com/jcosta92/portfolio",
   githubProfile: "https://github.com/jcosta92/",
@@ -59,7 +59,7 @@ const skills = {
       title: "Sales Engineering",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Led and developed B2B offers with a total value of over €10M in the logistics sector for +6 years",
+        "⚡ Lead and develop B2B offers with a total value of over €10M in the logistics sector for +6 years",
         "⚡ Requirements Management by importing tenders with ReqMan, attributing and classifying technical requirements",
         "⚡ Coordination with Engineering teams to develop solutions that meet customer needs and align with company capabilities",
         "⚡ Main point of contact for all national customers",
