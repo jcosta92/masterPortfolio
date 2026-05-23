@@ -338,7 +338,7 @@ const experience = {
           company: "Körber Supply Chain ",
           company_url: "https://koerber-supplychain.com/",
           logo_path: "korber.png",
-          duration: "July 2022 - Present",
+          duration: "Jul 2022 - Present",
           location: "Lisbon, Portugal",
           description: [
             "Leading all national offers and supporting international offers, totalizing an involvement in more than 300 offers since 2019 in the logistics business.",
@@ -355,7 +355,7 @@ const experience = {
           company: "Siemens Logistics",
           company_url: "https://www.siemens.com/en-us/",
           logo_path: "siemens.png",
-          duration: "Sep 2019 - June 2022",
+          duration: "Sep 2019 - Jun 2022",
           location: "Lisbon, Portugal",
           description: [
             "Created high-quality B2B bids, in communication with the 7 departments in the company.",
